@@ -121,9 +121,9 @@
 127.0.0.1 stls.adobe.com-cn.edgesuite.net.globalredir.akadns.net
 127.0.0.1 use-stls.adobe.com.edgesuite.net
 127.0.0.1 9ngulmtgqi.adobe.io
+127.0.0.1 lcs-robs.adobe.io
 127.0.0.1 vcorzsld2a.adobe.io
 127.0.0.1 r5hacgq5w6.adobe.io
+127.0.0.1 vajcbj9qgq.adobe.io
 127.0.0.1 4vzokhpsbs.adobe.io
 127.0.0.1 7m31guub0q.adobe.io
-127.0.0.1 vajcbj9qgq.adobe.io
-127.0.0.1 lcs-robs.adobe.io
