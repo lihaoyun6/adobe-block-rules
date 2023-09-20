@@ -130,4 +130,4 @@
 127.0.0.1 1hzopx6nz7.adobe.io
 127.0.0.1 ic.adobe.io
 127.0.0.1 23ynjitwt5.adobe.io
-127.0.0.1 adobe.io
+127.0.0.1 genuine.adobe.com
