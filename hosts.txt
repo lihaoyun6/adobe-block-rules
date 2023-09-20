@@ -127,3 +127,7 @@
 127.0.0.1 vajcbj9qgq.adobe.io
 127.0.0.1 4vzokhpsbs.adobe.io
 127.0.0.1 7m31guub0q.adobe.io
+127.0.0.1 1hzopx6nz7.adobe.io
+127.0.0.1 ic.adobe.io
+127.0.0.1 23ynjitwt5.adobe.io
+127.0.0.1 adobe.io
